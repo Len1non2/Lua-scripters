@@ -1,0 +1,2 @@
+26644
+Var #9AB47478|9ab47478|10|437f0000|0|0|0|0|r-xp|/data/app/com.instagram.android-2/oat/x86/base.odex|2049478
